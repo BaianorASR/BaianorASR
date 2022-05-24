@@ -37,7 +37,7 @@
   
 ### Social Media
 <section>
-  <a href="https://www.linkedin.com/in/adrancarnavale" target="_blank">
+  <a href="https://www.linkedin.com/in/BaianorASR" target="_blank">
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a> 
 </section>
