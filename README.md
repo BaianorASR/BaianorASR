@@ -13,6 +13,7 @@ Sou movido por desafios que geram alto impacto na vida das pessoas, desta forma,
 
 <a href="https://www.github.com/BaianorASR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BaianorASR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
