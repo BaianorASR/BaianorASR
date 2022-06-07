@@ -4,7 +4,7 @@ Hi 👋 My name is Adson Reis \[Baianor\]
 Web Developer
 -------------
 
-Sou movido por desafios que geram alto impacto na vida das pessoas, desta forma, através do desenvolvimento web full stack busco otimizar as interações, processos e das empresas que utilizam a tecnologia para agregar valor.
+I am driven by challenges that generate a high impact on people's lives, so through full stack web development I seek to optimize interactions, processes and companies that use technology to add value.
 
 * 🌍  I'm based in Santaluz, Bahia - Brazil
 * ✉️  You can contact me at [reis.adson2@outlook.com](mailto:reis.adson2@outlook.com)
