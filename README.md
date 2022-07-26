@@ -8,7 +8,7 @@ I am driven by challenges that generate a high impact on people's lives, so thro
 
 * 🌍  I'm based in Santaluz, Bahia - Brazil
 * ✉️  You can contact me at [reis.adson2@outlook.com](mailto:reis.adson2@outlook.com)
-* 🧠  I'm learning Golang, TypeScript, ExpressJS
+* 🧠  I'm learning Golang, Nestjs
 * 🤝  I'm open to collaborating on NextJs, React and React native
 
 <a href="https://www.github.com/BaianorASR" target="_blank" rel="noreferrer"><img
